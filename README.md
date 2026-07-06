@@ -1,4 +1,4 @@
-```md
+```html
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:6D28D9,50:7C3AED,100:2563EB&text=Aryan%20Agarwal&fontAlignY=40&fontSize=52&fontColor=ffffff&animation=fadeIn"/>
