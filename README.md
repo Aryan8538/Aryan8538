@@ -146,8 +146,6 @@ I enjoy transforming ideas into reliable software by focusing on clean architect
 | Continuous Learning | Constantly exploring new technologies |
 
 ---
----
-
 # 📊 GitHub Analytics
 
 <div align="center">
