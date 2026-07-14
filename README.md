@@ -150,8 +150,6 @@ I enjoy transforming ideas into reliable software by focusing on clean architect
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Aryan8538&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=1800"/>
-
 </div>
 
 <div align="center">
